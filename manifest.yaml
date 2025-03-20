@@ -9,7 +9,7 @@ builder:
 spec:
   operator: tf
   image: image
-  command: ""
+  command: "python3 src/main.py"
 
   tensorboard:
     enabled: true
