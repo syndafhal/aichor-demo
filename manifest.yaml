@@ -7,7 +7,7 @@ builder:
   context: .
 
 spec:
-  operator: pytorch
+  operator: jobset
   image: image
   command: "python3 -u main.py"
 
