@@ -30,4 +30,3 @@ spec:
         cpus: 1
         ramRatio: 2
         shmSizeGB: 0
-
